@@ -1,0 +1,10 @@
+{
+  "id": "prosjektforside-test",
+  "name": "Prosjektforside (test)",
+  "description": "Test av enkel prosjektforside i Trimble Connect",
+  "version": "1.0.0",
+  "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png",
+  "url": "index.html",
+  "permissions": []
+}
+``
