@@ -4,10 +4,12 @@
   "version": "1.0.0",
   "description": "Test av enkel prosjektforside i Trimble Connect",
 
-  "entryPoint": "index.html",
-  "extensionPoints": ["PROJECT"],
   "type": "PROJECT",
+  "extensionPoints": ["PROJECT"],
+
+  "entryPoint": {
+    "url": "index.html"
+  },
 
   "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828919.png"
 }
-``
